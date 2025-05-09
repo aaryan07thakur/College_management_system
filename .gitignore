@@ -1,0 +1,9 @@
+.college_env
+.db
+.sqlite3
+
+# Migrations
+*/migrations/
+!*/migrations/__init__.py
+
+media/
